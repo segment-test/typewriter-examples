@@ -19,7 +19,7 @@ To obtain a Tracking Plan id, navigate to the tracking plan index page at https:
 
 Select the Tracking Plan you'd like to generate a library for, and take note of the id in the URL:
 
-![Tracking Plan ID](./tracking_plan_id.png) 
+![Tracking Plan ID](./tracking_plan_show.png)
 
 #### TODO: Examples for additional languages
 - Java
