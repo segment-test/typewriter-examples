@@ -1,7 +1,8 @@
-# typewriter project integration exampless
+# typewriter project integration examples
 
 The example projects in this repo give some high level guidance as to how you can instrument
 the typewriter library into your applications.
+
 
 
 
@@ -10,4 +11,3 @@ the typewriter library into your applications.
 - iOS
 - Go
 - Swift
-- Elm
