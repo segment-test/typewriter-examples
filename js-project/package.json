@@ -1,0 +1,22 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "npm run typewriter-local && next build",
+    "dev": "npm run typewriter-local && next",
+    "typewriter-remote": "typewriter gen-js --id {YOUR_TRACKING_PLAN_ID} --token {YOUR_API_TOKEN} --outputPath ./pages/generated",
+    "typewriter-local": "typewriter gen-js --inputPath ./tracking-plan.json --outputPath ./pages/generated"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^4.2.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "typewriter": "1.0.0"
+  }
+}
